@@ -1,0 +1,7 @@
+[extension]
+id = "editor_clock"
+name = "Editor Clock"
+version = "0.1.0"
+description = "Editor Clock extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
